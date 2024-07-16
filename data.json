@@ -1,18 +1,6 @@
 {
   "bootcamps": [
     {
-      "title": "Big Bank 1 ReactPro",
-      "description": "New Graduate Program for React Developers",
-      "courses": [
-        "QAHTMLCSS",
-        "QAJSFUND",
-        "QAREACT",
-        "QAADVREA"
-      ],
-      "length": 17,
-      "id": "1"
-    },
-    {
       "id": "ebf1",
       "title": "Big Bank 3 - AdvRaect",
       "description": "Advanced react course for experienced coders",
@@ -33,6 +21,34 @@
         "QAANGULAR"
       ],
       "length": 46
+    },
+    {
+      "id": 0,
+      "title": "New Client 1",
+      "description": "most",
+      "courses": [
+        "QAHTMLCSS",
+        "QAJSFUND"
+      ],
+      "length": 7
+    },
+    {
+      "id": 0,
+      "title": "New Client 1",
+      "description": "sdada",
+      "courses": [
+        "QAHTMLCSS"
+      ],
+      "length": 7
+    },
+    {
+      "id": 0,
+      "title": "New Client 1",
+      "description": "sdfadsf",
+      "courses": [
+        "QAJSFUND"
+      ],
+      "length": 7
     }
   ]
 }

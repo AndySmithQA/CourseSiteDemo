@@ -11,7 +11,7 @@ function createBootcampTemplate(bootcamp: BootcampProps): string {
             <p>${bootcamp.description}</p>
             <p class="courses">${bootcamp.courses.join(' - ')}</p>
             <p>Length of Bootcamp ${bootcamp.length} days</p>
-            <button class="delete-button" data-id="${bootcamp.id}">Delete</button>
+           <button class="delete-button" data-id="${bootcamp.id}">Delete</button>
         </div>
     `
 }
