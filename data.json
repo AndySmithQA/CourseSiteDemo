@@ -21,34 +21,6 @@
         "QAANGULAR"
       ],
       "length": 46
-    },
-    {
-      "id": 0,
-      "title": "New Client 1",
-      "description": "most",
-      "courses": [
-        "QAHTMLCSS",
-        "QAJSFUND"
-      ],
-      "length": 7
-    },
-    {
-      "id": 0,
-      "title": "New Client 1",
-      "description": "sdada",
-      "courses": [
-        "QAHTMLCSS"
-      ],
-      "length": 7
-    },
-    {
-      "id": 0,
-      "title": "New Client 1",
-      "description": "sdfadsf",
-      "courses": [
-        "QAJSFUND"
-      ],
-      "length": 7
     }
   ]
 }
