@@ -18,7 +18,7 @@
             "title" : "Big Bank 2 Intro to Web Development",
             "description": "Reskilling program for non-technical staff",
             "courses": ["QAHTMLCSS", "QAJSFUND"],
-            "length": 18,
+            "length": 8,
             "id":3
         }
     ]
