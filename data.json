@@ -1,0 +1,25 @@
+{
+    "bootcamps" : [
+        {
+            "title" : "Big Bank 1 ReactPro",
+            "description": "New Graduate Program for React Developers",
+            "courses": ["QAHTMLCSS", "QAJSFUND","QAREACT","QAADVREA"],
+            "length": 17,
+            "id":1
+        },
+        {
+            "title" : "Big Bank 1 AngularPro",
+            "description": "New Graduate Program for Angular Developers",
+            "courses": ["QAHTMLCSS", "QAJSFUND","QAANGULAR"],
+            "length": 14,
+            "id":2
+        },
+        {
+            "title" : "Big Bank 2 Intro to Web Development",
+            "description": "Reskilling program for non-technical staff",
+            "courses": ["QAHTMLCSS", "QAJSFUND"],
+            "length": 18,
+            "id":3
+        }
+    ]
+}
