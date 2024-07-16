@@ -10,28 +10,29 @@
         "QAADVREA"
       ],
       "length": 17,
-      "id": 1
+      "id": "1"
     },
     {
-      "title": "Big Bank 1 AngularPro",
-      "description": "New Graduate Program for Angular Developers",
+      "id": "ebf1",
+      "title": "Big Bank 3 - AdvRaect",
+      "description": "Advanced react course for experienced coders",
+      "courses": [
+        "QAADVREA"
+      ],
+      "length": 4
+    },
+    {
+      "id": "bf7b",
+      "title": "New Client 1",
+      "description": "Very big course",
       "courses": [
         "QAHTMLCSS",
         "QAJSFUND",
+        "QAREACT",
+        "QAADVREA",
         "QAANGULAR"
       ],
-      "length": 14,
-      "id": 2
-    },
-    {
-      "title": "Big Bank 2 Intro to Web Development",
-      "description": "Reskilling program for non-technical staff",
-      "courses": [
-        "QAHTMLCSS",
-        "QAJSFUND"
-      ],
-      "length": 8,
-      "id": 3
+      "length": 46
     }
   ]
 }
