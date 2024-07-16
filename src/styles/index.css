@@ -22,28 +22,31 @@ nav {
 	grid-template-columns: 1fr 1fr;
 	gap: 20px;
 }
-.pizza {
-	background: #fff;
+.bootcamp {
+	background: #82CAAE;
 	border-radius: 4px;
 	padding: 8px;
 	position: relative;
+	color: white;
 }
-.pizza p,
-.pizza h2 {
+.bootcamp p,
+.bootcamp h2 {
 	margin: 0;
+	color: white;
 }
-.pizza h2 {
-	font-size: 1.2em;
+.bootcamp h2 {
+	font-size: 2em;
+	margin-bottom: 10px;
 }
-.pizza p {
+.bootcamp p {
 	font-size: 0.9em;
 }
-.pizza .toppings {
-	color: #777;
+.courses {
+	color: #fff;
 	font-size: 0.8em;
 	margin-bottom: 10px;
 }
-.pizza span {
+.bootcamp span {
 	position: absolute;
 	top: -5px;
 	right: -5px;
