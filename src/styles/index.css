@@ -17,6 +17,9 @@ nav {
 	align-items: center;
 	border-bottom: #82CAAE solid 1px;
 }
+nav h1{
+	color: #82CAAE;
+}
 .root {
 	display: grid;
 	grid-template-columns: 1fr 1fr;
@@ -40,6 +43,7 @@ nav {
 }
 .bootcamp p {
 	font-size: 0.9em;
+	margin-bottom: 5px;
 }
 .courses {
 	color: #fff;
