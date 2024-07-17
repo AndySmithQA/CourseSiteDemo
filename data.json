@@ -21,6 +21,15 @@
         "QAANGULAR"
       ],
       "length": 46
+    },
+    {
+      "id": 23,
+      "title": "New Client 1",
+      "description": "qsafsad",
+      "courses": [
+        "QAJSFUND"
+      ],
+      "length": 3
     }
   ]
 }
