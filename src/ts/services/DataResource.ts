@@ -13,8 +13,8 @@ export class DataResource<T> {
         return res.json()
     }
 
-    async delete(id: number) {
-        const res = await fetch(`${this.endpoint}/${id}`, {
+    async delete(code: string) {
+        const res = await fetch(`${this.endpoint}/${code}`, {
             method: 'DELETE'
         })
         return res
