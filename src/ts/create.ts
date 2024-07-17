@@ -11,7 +11,8 @@ form.addEventListener('submit', async (e) => {
         title: data.get('title') as string,
         description: data.get('description') as string,
         courses: data.getAll('courses') as string[],
-        length: parseInt(data.get('length') as string)
+        length: parseInt(data.get('length') as string),
+        id: Math.floor(Math.random() * 100000)
     }
 
     const res = await Bootcamp.save(newBootcamp);

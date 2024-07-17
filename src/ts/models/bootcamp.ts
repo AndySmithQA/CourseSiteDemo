@@ -5,7 +5,6 @@ export interface BootcampProps {
     description: string
     courses: string[]
     length: number
-
 }
 
 export const Bootcamp = new DataResource<BootcampProps>('http://localhost:3000/bootcamps')
